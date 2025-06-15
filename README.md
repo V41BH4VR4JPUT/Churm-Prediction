@@ -61,7 +61,7 @@ Each model is trained, validated, and saved in `.pkl` format for deployment.
 Performance metrics (accuracy, precision, recall, F1 score, ROC AUC) are stored in `reports/metrics.csv`. SHAP is used for explaining feature contributions.
 
 ![Model Performance](images/model_metrics.png)
-![SHAP Summary Plot](images/shap_summary.png)
+![SHAP Summary Plot](images/shap_plots.png)
 
 ---
 
@@ -72,7 +72,7 @@ Performance metrics (accuracy, precision, recall, F1 score, ROC AUC) are stored 
 * View model predictions (churn or not churn)
 * Visualize SHAP values for model interpretability
 
-![Dashboard Screenshot](images/dashboard_ui.png)
+![Dashboard Screenshot](images/Dashboard.png)
 
 ---
 
